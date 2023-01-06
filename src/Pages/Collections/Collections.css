@@ -1,0 +1,66 @@
+.collections {
+  margin: 5rem auto;
+  position: relative;
+  width: 80%;
+}
+
+/* styles for each individual collection */
+.each-collection {
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem 2%;
+}
+
+.each-collection > div {
+  padding: 1rem 3%;
+  /* box-shadow: 5px 8px 15px #888; */
+}
+
+.each-collection img {
+  width: 100%;
+  display: block;
+  margin: 1rem auto;
+}
+
+.each-collection p {
+  text-align: justify;
+}
+
+#variant {
+  display: flex;
+  position: absolute;
+  bottom: 3%;
+  right: 10%;
+}
+
+#variant img {
+  width: 20px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+#btn button {
+  display: block;
+  margin: auto;
+  padding: 12px 18px;
+  border: 1px solid #000;
+  text-transform: uppercase;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+/* ------------------------ Responsive for Tablet ------------------------ */
+@media (max-width: 768px) {
+  .each-collection {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ------------------------ Responsive for Mobile ------------------------ */
+@media (max-width: 576px) {
+  .each-collection {
+    grid-template-columns: repeat(1, 1fr);
+    width: 85%;
+  }
+}

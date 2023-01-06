@@ -1,0 +1,37 @@
+.jewellery-section {
+  width: 90%;
+  margin: auto;
+}
+.jewelleries {
+  display: flex;
+  justify-content: center;
+  gap: 3%;
+}
+.jewelleries > div {
+  min-height: 150vh;
+  flex-basis: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  line-height: 10px;
+}
+#necklace {
+  background-image: url('../../images/necklaces.jpg');
+  background-size: cover;
+}
+#bracelet {
+  background-image: url('../../images/bracelets.jpg');
+  background-size: cover;
+}
+.shop-div {
+  background-color: rgba(255, 255, 255, 0.6);
+  position: absolute;
+  bottom: 10%;
+  padding: 16px 7rem 8px;
+}
+#on-sale {
+  text-align: center;
+  margin: 3rem auto;
+  word-spacing: 5px;
+  font-size: 1.8em;
+}

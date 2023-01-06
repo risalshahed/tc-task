@@ -1,0 +1,24 @@
+.customer-satisfaction {
+  background-color: #ddd;
+  padding: 3rem;
+}
+.customer-satisfaction > h3 {
+  font-size: 2em;
+  text-align: center;
+}
+.amenities {
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
+.amenities > div {
+  flex-basis: 100%;
+}
+.amenities img {
+  width: 50px;
+  margin-left: -5px;
+}
+.amenities h3 {
+  text-transform: uppercase;
+  color: #333;
+}
