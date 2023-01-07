@@ -19,42 +19,31 @@
   },
   {
     "id": 4,
+    "img": "https://i.ibb.co/m9t0T6M/necklace-gold-vermeil.jpg",
+    "title": "Dimensional Love 3D Bar Necklace in Gold Vermeil",
+    "price": 13000,
+    "color_variation": "https://i.ibb.co/pWsPhPX/gold-vermeil.png",
     "variant": [
       {
-        "img": "https://i.ibb.co/m9t0T6M/necklace-gold-vermeil.jpg",
-        "title": "Dimensional Love 3D Bar Necklace in Gold Vermeil",
-        "price": 13000,
-        "color_variation_1": "https://i.ibb.co/pWsPhPX/gold-vermeil.png",
-        "color_variation_2": "https://i.ibb.co/hdttSrc/rose-gold.png",
-        "color_variation_3": "https://i.ibb.co/8XXjwRk/silver.png",
-        "color_variation_4": "https://i.ibb.co/896v0wv/yellow-gold-variant.png"
-      },
-      {
+        "id": 5,
         "img": "https://i.ibb.co/nChHpCx/necklace-ash.jpg",
         "title": "Dimensional Love 3D Bar Necklace in Sterling Silver",
         "price": 8300,
-        "color_variation_1": "https://i.ibb.co/pWsPhPX/gold-vermeil.png",
-        "color_variation_2": "https://i.ibb.co/hdttSrc/rose-gold.png",
-        "color_variation_3": "https://i.ibb.co/8XXjwRk/silver.png",
-        "color_variation_4": "https://i.ibb.co/896v0wv/yellow-gold-variant.png"
+        "color_variation": "https://i.ibb.co/8XXjwRk/silver.png"
       },
       {
+        "id": 6,
         "img": "https://i.ibb.co/m9t0T6M/necklace-gold-vermeil.jpg",
         "title": "Dimensional Love 3D Bar Necklace in 18k Gold Plating",
         "price": 9400,
-        "color_variation_1": "https://i.ibb.co/pWsPhPX/gold-vermeil.png",
-        "color_variation_2": "https://i.ibb.co/hdttSrc/rose-gold.png",
-        "color_variation_3": "https://i.ibb.co/8XXjwRk/silver.png",
-        "color_variation_4": "https://i.ibb.co/896v0wv/yellow-gold-variant.png"
+        "color_variation": "https://i.ibb.co/896v0wv/yellow-gold-variant.png"
       },
       {
+        "id": 7,
         "img": "https://i.ibb.co/zVW70QY/necklace-rose-gold.jpg",
         "title": "Dimensional Love 3D Bar Necklace in Sterling Silver",
         "price": 9400,
-        "color_variation_1": "https://i.ibb.co/pWsPhPX/gold-vermeil.png",
-        "color_variation_2": "https://i.ibb.co/hdttSrc/rose-gold.png",
-        "color_variation_3": "https://i.ibb.co/8XXjwRk/silver.png",
-        "color_variation_4": "https://i.ibb.co/896v0wv/yellow-gold-variant.png"
+        "color_variation": "https://i.ibb.co/hdttSrc/rose-gold.png"
       }
     ]
   }

@@ -1,6 +1,7 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
 import EachCollection from '../EachCollection/EachCollection';
+import EachCollectionWithVariant from '../EachCollection/EachCollectionWithVariant';
 import './Collections.css';
 
 const Collections = () => {
@@ -20,7 +21,7 @@ const Collections = () => {
       <div className="each-collection">
         {
           collections.map(collection => (
-            <EachCollection
+            <EachCollectionWithVariant
               key={collection.id}
               eachCollection={collection}
             />
